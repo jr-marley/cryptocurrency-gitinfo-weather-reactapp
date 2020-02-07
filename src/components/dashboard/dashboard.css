@@ -1,0 +1,288 @@
+
+.navbar-text-style{
+    color: rgb(255, 255, 255);
+    margin-left: -70%;
+    font-size: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.moving-text{
+    background-image: linear-gradient(to bottom right, rgb(4, 184, 255),rgb(26, 215, 248), rgb(4, 184, 255));
+    color: black;
+    height: 30px;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.navbar-header{
+    margin-left: 20%;
+}
+.loda{
+    margin-top: 300px;
+}
+.img_class {
+    width: 50%;
+    height: 58%;
+    margin: 1% 1% -13% -5%;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    margin-left: -69px;
+}
+.none{
+    background: none;
+    border: solid 1px #222222;
+}
+.abc{
+    background-color: #222222;
+}
+i{
+    margin-left: 20%;
+}
+.modebar-container{
+   overflow: hidden;
+   height: 0px;
+}
+.modebar{
+    overflow: hidden;
+    height: 0px;
+}
+#modebar-5bb917{
+   overflow: hidden;
+   height: 0px;
+}
+.logourl{
+    height: 15px;
+    width: 20px;
+    margin-right: -75px;
+}
+
+.overflowx{
+    overflow-x: auto;
+}
+
+.marginbottom{
+    margin-bottom: 40px;
+}
+
+.marginbotto{
+    margin-bottom: 30px;
+}
+
+
+.cccolor{
+    color: rgb(25, 85, 126);
+   
+}
+.topnav {
+    overflow: hidden;
+    background-color:white;
+  }
+
+.bitcoin{
+    font-size: 20px;
+    color: #F7931A;
+
+}
+
+.ethereum{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.ripple{
+    font-size: 20px;
+    color: #1E75AB;
+}
+
+.litcoin{
+    font-size: 20px;
+    color: rgb(81, 108, 148);
+}
+
+.card_name_style{
+   font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+.dataTables_length{
+    font-size: 20px;
+}
+
+.card{
+    width: 250px;
+    margin-left: 21px;
+    margin-bottom: 15px;
+    margin-left: 33px;
+}
+
+
+
+.card:hover{
+    transform:scale(1.2);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+
+
+.namesett{
+    margin-left: 30px;
+    font-size: 15px;
+}
+.fa {
+    font: normal normal normal 14px/1 FontAwesome;
+   
+    font-size: 25px;
+    
+}
+.tableheadersize{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.tableheader{
+   background-image: linear-gradient(rgb(47, 74, 100),black);
+   color: white;
+   font-size: 15px;
+   border-color: black;
+}
+
+.backgroundcolorfull{
+    background-image: url("../../images/backkkk.jpg");
+    box-shadow: 2px 2px 3px 0px #17162C;
+}
+
+.leftleft{
+    margin-left: -10px;
+}
+
+.table{
+    box-shadow: 5px 15px 10px 5px rgb(87, 87, 87);
+
+}
+
+
+.card-body{
+   
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+}
+
+.bodycard{
+    background-color: rgb(0, 0, 0);
+}
+
+.main-svg{
+  width: 250px;
+  height: 165px;
+}
+
+
+.xy{
+    height: 200px;
+    margin-left: -30px;
+}
+
+
+.loadingpage{
+    background-image: linear-gradient(rgb(77, 204, 243),white,white,blue);
+}
+
+
+.custom-select{
+    font-size: 15px;
+}
+
+.dataTables_filter{
+    font-size: 15px;
+}
+.table-sm{
+    font-size: 15px;
+}
+
+.dataTables_info{
+    font-size: 15px;
+}
+tbody{
+    font-size: 15px;
+}
+
+.bitcolor{
+    background-image: linear-gradient(rgb(0, 0, 0),rgb(255, 255, 255));
+    margin-left: 18px;
+    border-radius: 5px;
+}
+
+.etcolor{
+    background-image: linear-gradient(rgb(85, 197, 11),rgb(255, 255, 255));
+    margin-left: 18px;
+    border-radius: 5px;
+}
+
+.ripcolor{
+    background-image: linear-gradient(rgb(121, 206, 255),rgb(255, 255, 255));
+    margin-left: 18px;
+    border-radius: 5px;
+}
+
+.licolor{
+    background-image: linear-gradient(rgb(255, 0, 0),rgb(255, 255, 255));
+    margin-left: 18px;
+    border-radius: 4px;
+}
+
+.tablesize{
+    font-size: 15px;
+}
+
+.js-plotly-plot{
+    height: -290px;
+    width: 100px;
+}
+
+.svg-container{
+    height:250px;
+    width: 250px;
+}
+
+.cartesianlayer{
+    width: 200px;
+    height: 150px;
+}
+
+.plot-container{
+    height: 160px;
+}
+
+.cartesianlayer{
+    height: 170px;
+}
+
+.cursor-nw-resize{
+    padding-right: 50px;
+}
+
+.cursor-sw-resize{
+    padding-left: -50px;
+}
+
+.nsewdrag{
+    width: 250px;
+    height: 110px;
+}
+.drag{
+    padding-left: -150px;
+}
+
+.cursor-nw-resize{
+    margin-bottom: 50px;
+}
+.sorting{
+    font-size: 15px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border: 1px solid #ddd;
+    font-size: 15px;
+}

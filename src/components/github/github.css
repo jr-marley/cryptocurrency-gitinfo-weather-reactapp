@@ -1,0 +1,214 @@
+
+
+.padding{
+    padding: 7% 3% 7% 3%;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+   
+}
+.paddinginfo{
+    padding: 7% 3% 7% 3%;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+   
+}
+.container-fluid.weather{
+    background: linear-gradient(to right, rgb(34, 2, 34) 0%, rgb(240, 116, 240) 100%); 
+}
+.weather_img{
+    height: 65%;
+    width: 90%;
+    margin-left:5%;
+    
+}
+
+.weather_inputs{
+    background-color: #333333;
+    height: 500px;
+    width: 100%;
+   
+}
+.input_txt {
+    color: white;
+    background-color: #b9c1c7;
+}
+
+.dimensions{
+    border: 0;
+    border-bottom: solid 1px purple;
+    background-color:rgb(255, 224, 252);
+    color: black;
+    width: 100%;
+    height: 100%;
+    margin-top: 10%;
+
+    
+}
+
+.dimensions1{
+    border: 0;
+    border-bottom: solid 1px red;
+    background-color:lightyellow;
+    color: black;
+    width: 58%;
+    height: 58%;
+    margin-top: 10%;
+
+    
+}
+.button_dimension1{
+    border: 10 solid 1px red;
+    background-color:black;
+    color: #fff;
+    width: 58%;
+    height: 58%;
+    margin-top: 10%;
+    
+}
+.button_dimension{
+    border: 10 solid 1px purple;
+    border-color: #0d1925;
+    background-color:#143049;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    margin-top: 10%;
+    
+}
+.resultinfo{
+    border-bottom: solid 1px rgb(195, 147, 214);
+    background-color: #333333;
+    color: black;
+    margin-top: 56px;
+    margin-left: 5px;
+    margin-right: 10px;
+    box-sizing: initial;
+    width: 58%;
+    height: 20%;
+
+}
+.result{
+    border-bottom: solid 1px purple;
+    background-color: #333333;
+    color: whitesmoke;
+    margin-top: 56px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.description_div{
+    color:#fff;
+    
+}
+
+.background_img{
+    background-image: url("../../images/github.jpg") no-repeat center center fixed;
+    width:100%;
+    height:520px;
+}
+
+body .background_img {
+    background: url("../../images/github.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+.htxt{
+
+    color:orange;
+    margin-left:20%;
+    font-size:25px ;
+}
+.shtxt{
+    color:orange;
+    margin-left:28%;
+    font-size:10px ;
+}
+.carddim{
+    margin-top: 5%;
+    width: 100%;
+    height: 100%;
+    padding-top: 30%;
+
+}
+.card-img-top{
+    border-radius: 50%;
+    margin-left: 20%;
+    width: 60%;
+    height: 60%;
+   
+
+}
+
+.p_colorchange{
+    font-size: 15px;
+    color: black;
+    margin-left:20% ;
+}
+.color_change{
+    color: orange;
+    font-size: 50px;
+}
+.p_style{
+    color: orange;
+    font-size: 20px;
+}
+.input_text{
+    font-size: 15px;
+    width: 230px;
+    border-radius: 5px ;
+    height: 30px;
+    color : black;
+    background-color: bisque;  
+}
+.button_Style{
+    border-radius: 5px ;
+width: 100px;
+height: 30px;
+font-size: 13px;
+background-color: black;
+color: white;
+}
+@media screen and (max-width: 420px) {
+    .weather_inputs{
+        background-color: #333333;
+        height: 462px;
+        width: 100%;
+        margin: 10% 5% 0% 5%;
+    }
+    .result{
+        border-bottom: solid 1px rgb(214, 147, 147);
+        background-color: #333333;
+        color: #fff;
+        margin-top: 39px;
+        margin-bottom: -18px;
+        margin-left: -13px;
+        margin-right: -15px;
+    }
+    .button_dimension{
+        border: 10 solid 1px red;
+        background-color: #333333;
+        color: #fff;
+        width: 100%;
+        height: 70%;
+        margin-top: 16%;
+        
+    }
+    .weather_img_class{
+        height: 476px;
+        width: 100%;
+    }
+}
+

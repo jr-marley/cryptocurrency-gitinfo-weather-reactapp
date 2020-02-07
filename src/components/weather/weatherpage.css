@@ -1,0 +1,85 @@
+.cls_ .padding{
+    padding: 0% 20% 4% 20%;
+     
+    
+ }
+ .cls_{
+     background-color: rgb(238, 101, 51);
+ }
+ .cls_ .weather_img_class{
+     height: 100%;
+     width: 99.7%;
+    margin: 0px 0px 0px 0px;
+ }
+ 
+ .cls_ .weather_inputs{
+     background-color: #1e3849;
+     height: 100%;
+     width: 100%;
+ }
+ 
+ .cls_ .margin_right{
+     margin-left: -15px;
+ }
+ .cls_ input[type="text"] {
+     background-color: #1e3849;
+     border: 0;
+     border-bottom: solid 1px #f16051;
+     
+     padding-bottom: 5px;
+     color: white;
+     font-weight: lighter;
+     letter-spacing: 1px;
+     margin-bottom: 30px;
+     margin-right: 20px;
+     margin-left: 10px;
+     font-size: 15px;
+   }
+ 
+   .cls_ button{
+     color: rgb(0, 0, 0);
+     background-color: rgb(240, 242, 247);
+     width: 90px;
+ }
+ 
+ .cls_ p{
+     background-color: #1e3849;
+     height: 60px;
+     font-family: 'Courier New', Courier, monospace;
+     border-bottom: solid 1px #2f495a;
+     margin-left: 10px;
+     margin-right: 10px;
+     color: white;
+ }
+ 
+ .cls_ .description_div{
+     color:#fff;
+ }
+ 
+ .cls_ .weather-form-background{
+     height: 540px;
+     color:white ;
+ }
+ 
+ @media screen and (max-width:480px)
+ {
+    .cls_ .weather_inputs{
+         background-color: #1e3849;
+         margin-top: 0px;
+         margin-left: 6%;
+     }
+     .cls_ .weather_img_class{
+         height: 100%;
+         width: 106.8%;
+     }
+ 
+     .cls_ p{
+         background-color: #1e3849;
+         height: 60px;
+         font-family: 'Courier New', Courier, monospace;
+         border-bottom: solid 1px #2f495a;
+         margin-left: 0px;
+         margin-right: 0px;
+         color: white;
+     }
+ }
